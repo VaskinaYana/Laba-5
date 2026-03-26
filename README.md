@@ -19,8 +19,7 @@
 
 ### Тестирование
 
-
-
+<img width="615" height="163" alt="image" src="https://github.com/user-attachments/assets/1c7f864a-7ad4-4a8d-a0cb-f45a1775246d" />
 
 
 # Задание 2
@@ -41,8 +40,7 @@
 Если знаки одинаковые (оба + или оба -) → смены знака нет (+0), дальше считаем смены для списка, начинающегося с Y
 4.Складываем все единицы, полученные на каждом шаге
 
-
-
 ### Тестирование
 
+<img width="624" height="129" alt="image" src="https://github.com/user-attachments/assets/33c6bbd9-c3dc-43f2-bf10-14a8f24df648" />
 
